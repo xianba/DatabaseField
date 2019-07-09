@@ -7,15 +7,11 @@
    
    Proya
    
-.. toctree::
-   :maxdepth: 2
+.. _a link: http://example.com/
 
-   intro
-   strings
+东方大厦
+ `链接文本 <http://example.com/>`_
 
-Lorem ipsum [Ref]_ dolor sit amet.
-
-.. [Ref] 参考文献, 书,URL 等.
 
 引用
 ======
