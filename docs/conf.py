@@ -38,6 +38,7 @@ extensions = [
     'sphinx-prompt',
     'recommonmark',
     'notfound.extension',
+    'django',
 ]
 templates_path = ['_templates']
 
