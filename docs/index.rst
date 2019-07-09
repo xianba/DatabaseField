@@ -25,6 +25,19 @@ Indices and tables
 * :ref:`search`
 
 
+Indices and tables
+==================
+.. toctree::
+   :maxdepth: 2
+   :caption: Part 1:
+   1.rst
+
+.. toctree::
+   :maxdepth: 2
+   :caption: Part 2:
+   2.rst
+
+
 # 这个项目是管理数据库字段的项目
 
 
