@@ -30,12 +30,12 @@ Indices and tables
 .. toctree::
    :maxdepth: 2
    :caption: Part 1:
-   1.rst
+   Proya.rst
 
 .. toctree::
    :maxdepth: 2
    :caption: Part 2:
-   2.rst
+   Proya.rst
 
 
 # 这个项目是管理数据库字段的项目
