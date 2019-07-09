@@ -46,7 +46,7 @@ source_suffix = ['.rst', '.md']
 master_doc = 'index'
 
 # General information about the project.
-project = u'xiaxianba'
+project = u'DatabaseField'
 copyright = u'2019, xiaxianba'
 author = u'xiaxianba'
 
