@@ -14,6 +14,7 @@ Welcome to Project's documentation!
    :maxdepth: 2
    :caption: Contents:
    
+   index.rst
    Proya.rst
 
 Indices and tables
