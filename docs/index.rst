@@ -6,14 +6,16 @@
    :caption: 目录:
    
    Proya
+   
+.. toctree::
+   :maxdepth: 2
 
-Indices and tables
-==================
+   intro
+   strings
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+Lorem ipsum [Ref]_ dolor sit amet.
 
+.. [Ref] 参考文献, 书,URL 等.
 
 引用
 ======
