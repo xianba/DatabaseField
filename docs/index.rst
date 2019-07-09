@@ -20,4 +20,9 @@
 ======
 1.  `rst文件制作指南 <https://zh-sphinx-doc.readthedocs.io/en/latest/contents.html>`_
 2. `rst语法 <http://docutils.sourceforge.net/docs/user/rst/quickref.html>`_
+3. `Sphinx rst 创建表格技巧 <https://ramble.3vshej.cn/sphinx-rst-create-table-tips/>`_
+4. `rst表格制作 <http://rst.ninjs.org/>`_
+
+
+
 
